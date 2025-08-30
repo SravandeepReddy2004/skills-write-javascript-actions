@@ -1,5 +1,4 @@
 const request = require("request-promise");
-
 const options = {
   method: "GET",
   uri: "https://icanhazdadjoke.com/",
