@@ -5,5 +5,4 @@ async function run() {
   console.log(joke);
   core.setOutput("joke-output", joke);
 }
-
 run();
